@@ -7,7 +7,7 @@
 			"revision" : 5
 		}
 ,
-		"rect" : [ 25.0, 69.0, 889.0, 657.0 ],
+		"rect" : [ 205.0, 60.0, 1001.0, 657.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 9.0,
@@ -667,9 +667,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 3,
-					"outlettype" : [ "int", "float", "float" ],
-					"patching_rect" : [ 176.0, 120.0, 74.0, 19.0 ],
-					"text" : "unpack 0 0. 0."
+					"outlettype" : [ "float", "float", "float" ],
+					"patching_rect" : [ 176.0, 120.0, 76.0, 19.0 ],
+					"text" : "unpack 0. 0. 0."
 				}
 
 			}
@@ -943,7 +943,7 @@
 					"destination" : [ "obj-13", 2 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 240.5, 161.0, 944.5, 161.0 ],
+					"midpoints" : [ 242.5, 161.0, 944.5, 161.0 ],
 					"source" : [ "obj-199", 2 ]
 				}
 
@@ -954,7 +954,7 @@
 					"destination" : [ "obj-13", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 213.0, 161.0, 840.5, 161.0 ],
+					"midpoints" : [ 214.0, 161.0, 840.5, 161.0 ],
 					"source" : [ "obj-199", 1 ]
 				}
 
@@ -976,7 +976,7 @@
 					"destination" : [ "obj-188", 2 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 240.5, 416.0, 185.833328, 416.0 ],
+					"midpoints" : [ 242.5, 416.0, 185.833328, 416.0 ],
 					"source" : [ "obj-199", 2 ]
 				}
 
@@ -987,7 +987,7 @@
 					"destination" : [ "obj-188", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 213.0, 365.0, 215.0, 365.0, 215.0, 393.0, 133.166672, 393.0 ],
+					"midpoints" : [ 214.0, 365.0, 215.0, 365.0, 215.0, 393.0, 133.166672, 393.0 ],
 					"source" : [ "obj-199", 1 ]
 				}
 
@@ -1025,7 +1025,7 @@
 					"destination" : [ "obj-244", 2 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 240.5, 412.0, 271.0, 412.0, 271.0, 467.0, 226.5, 467.0 ],
+					"midpoints" : [ 242.5, 412.0, 271.0, 412.0, 271.0, 467.0, 226.5, 467.0 ],
 					"source" : [ "obj-199", 2 ]
 				}
 
@@ -1047,7 +1047,7 @@
 					"destination" : [ "obj-247", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 213.0, 412.0, 271.0, 412.0, 271.0, 458.0, 292.0, 458.0, 292.0, 499.0, 209.5, 499.0 ],
+					"midpoints" : [ 214.0, 412.0, 271.0, 412.0, 271.0, 458.0, 292.0, 458.0, 292.0, 499.0, 209.5, 499.0 ],
 					"source" : [ "obj-199", 1 ]
 				}
 
